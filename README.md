@@ -12,8 +12,6 @@ Welcome to the repository for the project **"Exploring the Landscape of Data Sci
 - [Survey Insights](#survey-insights)
 - [Data Transformation](#data-transformation)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## 🌟 Introduction
 The "Exploring the Landscape of Data Science Careers: Survey Findings" project aims to shed light on the current state of the data science profession. By analyzing survey responses, we can gain valuable insights into the industry, including average salaries by job title, work-life balance satisfaction, and preferred programming languages.
