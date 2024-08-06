@@ -80,9 +80,3 @@ Before building the dashboard, several data transformation steps were performed:
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-For any inquiries or feedback, please contact [yourname](mailto:youremail@example.com).
-"""
