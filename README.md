@@ -21,7 +21,7 @@ To view and interact with the Power BI report, you will need:
 ### 📥 Installation
 1. Clone this repository:
     \`\`\`bash
-    git clone https://github.com/yourusername/data-science-careers-survey.git
+    git clone https://github.com/ashirvadstva/CareerInsights_Data-Science.git
     \`\`\`
 2. Open the `Exploring the Landscape of Data Science Careers Survey Findings.pbix` file using Power BI Desktop.
 
